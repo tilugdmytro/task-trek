@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+TaskTrek. An irreplaceable assistant in daily tasks
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Technologies: TypeScript, React, Hooks, REST API
